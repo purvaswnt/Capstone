@@ -230,7 +230,7 @@ for(ii in seq(700000,800000)){
   
 }
 
-unique(df_uber_Jul14$Area)
+unique(df_uber_Jul14$Area) 
 
 testing %>% filter(is.na(Area))
 

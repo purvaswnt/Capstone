@@ -69,6 +69,7 @@ for (ii in seq(startindex, nrow(na.omit(df_Area_Mapping_NY)))){
 }
 
 unique(df_Dial7$Area)
+df_Dial7 %>% filter(is.na(Area))
 ###############################################################################################################
 
 ## Plotting bar plot to display demand of American cab by Area
@@ -98,7 +99,7 @@ Area_counts_Dial7 <- df_Dial7 %>% group_by(Area) %>% tally()
 Area_counts_Dial7 %>% arrange(desc(n))
 
 #Total count for all records
-nrow(df_Dial7)
+nrow(df_Dial7)/92
 
 # Count of weekdays from July - September
 df_Dial7 %>% mutate(day = weekdays(as.Date(DateTime,format = "%Y.%m.%d"), abbreviate = "F")) %>% 
@@ -106,6 +107,10 @@ df_Dial7 %>% mutate(day = weekdays(as.Date(DateTime,format = "%Y.%m.%d"), abbrev
 
 # Count of individual days from July - September
 df_Dial7 %>% mutate(per_day = as.Date(df_Dial7$DateTime,format = "%Y.%m.%d")) %>% group_by(per_day) %>% tally() %>% arrange(desc(n))
+
+
+df_Dial7 %>% mutate(day = weekdays(as.Date(DateTime,format = "%Y.%m.%d"), abbreviate = "F")) %>% 
+  group_by(day,Area) %>% tally() %>% arrange(desc(n))
 
 
 

@@ -1,0 +1,81 @@
+Latitude,Longitude,Latitude,Longitude,Accuracy Score,Accuracy Type,Number,Street,City,State,County,Zip,Country,Source
+39.9897,-74.7736,39.989512,-74.77373,1,rooftop,8,Kates Tract,Mount Holly,NJ,Burlington County,8060,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+39.9897,-74.4736,39.9897,-74.4736,0.18,nearest_place,,,Whitesbog,NJ,Ocean County,8015,US,TIGER/Line® dataset from the US Census Bureau
+39.9897,-74.1736,39.989721,-74.172536,1,rooftop,1128,Indian Hill Rd,Toms River,NJ,Ocean County,8753,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+39.9897,-73.8736,0,0,0,,,,,,Ocean County,,,
+39.9897,-73.5736,0,0,0,,,,,,Ocean County,,,
+39.9897,-73.2736,0,0,0,,,,,,Ocean County,,,
+39.9897,-72.9736,0,0,0,,,,,,Ocean County,,,
+39.9897,-72.6736,0,0,0,,,,,,Ocean County,,,
+40.2897,-74.7736,40.286603,-74.773455,1,nearest_street,139,Bull Run Rd,Pennington,NJ,Mercer County,8534,US,TIGER/Line® dataset from the US Census Bureau
+40.2897,-74.4736,40.289619,-74.473509,1,rooftop,12,Halsey Reed Rd,Jamesburg,NJ,Middlesex County,8831,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+40.2897,-74.1736,40.289968,-74.173989,1,rooftop,390,State Highway 34,Colts Neck,NJ,Monmouth County,7722,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+40.2897,-73.8736,0,0,0,,,,,,Monmouth County,,,
+40.2897,-73.5736,0,0,0,,,,,,Monmouth County,,,
+40.2897,-73.2736,0,0,0,,,,,,Monmouth County,,,
+40.2897,-72.9736,0,0,0,,,,,,Monmouth County,,,
+40.2897,-72.6736,0,0,0,,,,,,Monmouth County,,,
+40.5897,-74.7736,40.589855,-74.774697,1,rooftop,8,Holland Brook Rd,Whitehouse Station,NJ,Hunterdon County,8889,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+40.5897,-74.4736,40.589458,-74.473501,1,rooftop,720,Dunellen Ave,Dunellen,NJ,Middlesex County,8812,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+40.5897,-74.1736,40.5897,-74.1736,0.83,nearest_place,,,New Springville,NY,Richmond County,10313,US,TIGER/Line® dataset from the US Census Bureau
+40.5897,-73.8736,40.5897,-73.8736,0.36,nearest_place,,,Rockaway Park,NY,Kings County,11694,US,TIGER/Line® dataset from the US Census Bureau
+40.5897,-73.5736,40.5897,-73.5736,1.3,nearest_place,,,Point Lookout,NY,Nassau County,11569,US,TIGER/Line® dataset from the US Census Bureau
+40.5897,-73.2736,40.5897,-73.2736,0.14,nearest_place,,,Oak Beach,NY,Suffolk County,11702,US,TIGER/Line® dataset from the US Census Bureau
+40.5897,-72.9736,0,0,0,,,,,,Suffolk County,,,
+40.5897,-72.6736,0,0,0,,,,,,Suffolk County,,,
+40.8897,-74.7736,40.8897,-74.7736,0.47,nearest_place,,,Budd Lake,NJ,Morris County,7828,US,TIGER/Line® dataset from the US Census Bureau
+40.8897,-74.4736,40.890388,-74.473683,1,rooftop,176,Rt 46 E,Denville,NJ,Morris County,7834,US,Morris
+40.8897,-74.1736,40.889678,-74.173592,1,rooftop,212,Maplewood Ave,Clifton,NJ,Passaic County,7013,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+40.8897,-73.8736,40.8897,-73.8736,9.88,nearest_place,,,Bronx,NY,Bronx County,10470,US,TIGER/Line® dataset from the US Census Bureau
+40.8897,-73.5736,40.889846,-73.572672,1,rooftop,150,Factory Pond Rd,Locust Valley,NY,Nassau County,11560,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+40.8897,-73.2736,40.886634,-73.274673,1,nearest_street,63,Paddock Dr,Northport,NY,Suffolk County,11768,US,TIGER/Line® dataset from the US Census Bureau
+40.8897,-72.9736,40.889899,-72.973494,1,rooftop,15,Half Mile Rd,Middle Island,NY,Suffolk County,11953,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+40.8897,-72.6736,40.892606,-72.670884,1,nearest_street,144,Old Westhampton Rd,Riverhead,NY,Suffolk County,11901,US,TIGER/Line® dataset from the US Census Bureau
+41.1897,-74.7736,41.1897,-74.7736,0.31,nearest_place,,,Tuttles Corner,NJ,Sussex County,7826,US,TIGER/Line® dataset from the US Census Bureau
+41.1897,-74.4736,41.1897,-74.4736,0.64,nearest_place,,,Highland Lakes,NJ,Sussex County,7422,US,TIGER/Line® dataset from the US Census Bureau
+41.1897,-74.1736,41.1897,-74.1736,0.81,nearest_place,,,Tuxedo Park,NY,Orange County,10987,US,TIGER/Line® dataset from the US Census Bureau
+41.1897,-73.8736,41.188925,-73.872737,1,rooftop,49 A,Old Albany Post Rd,Ossining,NY,Westchester County,10562,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+41.1897,-73.5736,41.190042,-73.573782,1,rooftop,110,High Ridge Rd,Pound Ridge,NY,Westchester County,10576,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+41.1897,-73.2736,41.189349,-73.272983,1,nearest_street,654,Surrey Ln,Fairfield,CT,Fairfield County,6824,US,TIGER/Line® dataset from the US Census Bureau
+41.1897,-72.9736,41.1897,-72.9736,0.2,nearest_place,,,Morningside,CT,New Haven County,6460,US,TIGER/Line® dataset from the US Census Bureau
+41.1897,-72.6736,41.1897,-72.6736,0.12,nearest_place,,,Sachem Head,CT,New Haven County,6437,US,TIGER/Line® dataset from the US Census Bureau
+40.2897,-74.4736,40.289619,-74.473509,1,rooftop,12,Halsey Reed Rd,Jamesburg,NJ,Middlesex County,8831,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+40.2897,-74.1736,40.289968,-74.173989,1,rooftop,390,State Highway 34,Colts Neck,NJ,Monmouth County,7722,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+40.2897,-73.8736,0,0,0,,,,,,Monmouth County,,,
+40.2897,-73.5736,0,0,0,,,,,,Monmouth County,,,
+40.2897,-73.2736,0,0,0,,,,,,Monmouth County,,,
+40.2897,-72.9736,0,0,0,,,,,,Monmouth County,,,
+40.2897,-72.6736,0,0,0,,,,,,Monmouth County,,,
+40.2897,-72.3736,0,0,0,,,,,,Monmouth County,,,
+40.5897,-74.4736,40.589458,-74.473501,1,rooftop,720,Dunellen Ave,Dunellen,NJ,Middlesex County,8812,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+40.5897,-74.1736,40.5897,-74.1736,0.83,nearest_place,,,New Springville,NY,Richmond County,10313,US,TIGER/Line® dataset from the US Census Bureau
+40.5897,-73.8736,40.5897,-73.8736,0.36,nearest_place,,,Rockaway Park,NY,Kings County,11694,US,TIGER/Line® dataset from the US Census Bureau
+40.5897,-73.5736,40.5897,-73.5736,1.3,nearest_place,,,Point Lookout,NY,Nassau County,11569,US,TIGER/Line® dataset from the US Census Bureau
+40.5897,-73.2736,40.5897,-73.2736,0.14,nearest_place,,,Oak Beach,NY,Suffolk County,11702,US,TIGER/Line® dataset from the US Census Bureau
+40.5897,-72.9736,0,0,0,,,,,,Suffolk County,,,
+40.5897,-72.6736,0,0,0,,,,,,Suffolk County,,,
+40.5897,-72.3736,0,0,0,,,,,,Suffolk County,,,
+40.8897,-74.4736,40.890388,-74.473683,1,rooftop,176,Rt 46 E,Denville,NJ,Morris County,7834,US,Morris
+40.8897,-74.1736,40.889678,-74.173592,1,rooftop,212,Maplewood Ave,Clifton,NJ,Passaic County,7013,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+40.8897,-73.8736,40.8897,-73.8736,9.88,nearest_place,,,Bronx,NY,Bronx County,10470,US,TIGER/Line® dataset from the US Census Bureau
+40.8897,-73.5736,40.889846,-73.572672,1,rooftop,150,Factory Pond Rd,Locust Valley,NY,Nassau County,11560,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+40.8897,-73.2736,40.886634,-73.274673,1,nearest_street,63,Paddock Dr,Northport,NY,Suffolk County,11768,US,TIGER/Line® dataset from the US Census Bureau
+40.8897,-72.9736,40.889899,-72.973494,1,rooftop,15,Half Mile Rd,Middle Island,NY,Suffolk County,11953,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+40.8897,-72.6736,40.892606,-72.670884,1,nearest_street,144,Old Westhampton Rd,Riverhead,NY,Suffolk County,11901,US,TIGER/Line® dataset from the US Census Bureau
+40.8897,-72.3736,40.890052,-72.37255,1,rooftop,43,Pheasant Close W,Southampton,NY,Suffolk County,11968,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+41.1897,-74.4736,41.1897,-74.4736,0.64,nearest_place,,,Highland Lakes,NJ,Sussex County,7422,US,TIGER/Line® dataset from the US Census Bureau
+41.1897,-74.1736,41.1897,-74.1736,0.81,nearest_place,,,Tuxedo Park,NY,Orange County,10987,US,TIGER/Line® dataset from the US Census Bureau
+41.1897,-73.8736,41.188925,-73.872737,1,rooftop,49 A,Old Albany Post Rd,Ossining,NY,Westchester County,10562,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+41.1897,-73.5736,41.190042,-73.573782,1,rooftop,110,High Ridge Rd,Pound Ridge,NY,Westchester County,10576,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+41.1897,-73.2736,41.189349,-73.272983,1,nearest_street,654,Surrey Ln,Fairfield,CT,Fairfield County,6824,US,TIGER/Line® dataset from the US Census Bureau
+41.1897,-72.9736,41.1897,-72.9736,0.2,nearest_place,,,Morningside,CT,New Haven County,6460,US,TIGER/Line® dataset from the US Census Bureau
+41.1897,-72.6736,41.1897,-72.6736,0.12,nearest_place,,,Sachem Head,CT,New Haven County,6437,US,TIGER/Line® dataset from the US Census Bureau
+41.1897,-72.3736,41.1897,-72.3736,0.11,nearest_place,,,East Marion,NY,Suffolk County,11939,US,TIGER/Line® dataset from the US Census Bureau
+41.4897,-74.4736,41.486564,-74.474925,1,nearest_street,277,Co Rd 18,Middletown,NY,Orange County,10940,US,TIGER/Line® dataset from the US Census Bureau
+41.4897,-74.1736,41.4897,-74.1736,0.27,nearest_place,,,Rock Tavern,NY,Orange County,12575,US,TIGER/Line® dataset from the US Census Bureau
+41.4897,-73.8736,41.490087,-73.873308,1,rooftop,320,E Mountain Rd N,Cold Spring,NY,Putnam County,10516,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+41.4897,-73.5736,41.489395,-73.575137,1,rooftop,2648,Route 22,Patterson,NY,Putnam County,12563,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+41.4897,-73.2736,41.489084,-73.274676,1,rooftop,536,Spruce Brook Rd,Southbury,CT,New Haven County,6488,US,Connecticut Geospatial Information Systems Council
+41.4897,-72.9736,41.489259,-72.973178,1,rooftop,103,New Haven Rd,Prospect,CT,New Haven County,6712,US,Connecticut Geospatial Information Systems Council
+41.4897,-72.6736,41.489644,-72.67369,1,nearest_street,49,Edwards Rd,Durham,CT,Middlesex County,6422,US,TIGER/Line® dataset from the US Census Bureau
+41.4897,-72.3736,41.489822,-72.37408,1,rooftop,51,Wickham Rd,East Haddam,CT,Middlesex County,6423,US,Connecticut Geospatial Information Systems Council

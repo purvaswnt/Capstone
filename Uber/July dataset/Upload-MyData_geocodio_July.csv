@@ -1,0 +1,121 @@
+Latitude,Longitude,Latitude,Longitude,"Accuracy Score","Accuracy Type",Number,Street,City,State,County,Zip,Country,Source
+39.7214,-74.826,39.722585,-74.828674,1,nearest_street,1670,"Condo Ave","Waterford Works",NJ,"Camden County",08089,US,"TIGER/Line® dataset from the US Census Bureau"
+39.7214,-74.526,39.7214,-74.526,0.31,nearest_place,,,Jenkins,NJ,"Burlington County",08019,US,"TIGER/Line® dataset from the US Census Bureau"
+39.7214,-74.226,39.7214,-74.226,0.24,nearest_place,,,Manahawkin,NJ,"Ocean County",08050,US,"TIGER/Line® dataset from the US Census Bureau"
+39.7214,-73.926,0,0,0,,,,,,,,,
+39.7214,-73.626,0,0,0,,,,,,,,,
+39.7214,-73.326,0,0,0,,,,,,,,,
+39.7214,-73.026,0,0,0,,,,,,,,,
+39.7214,-72.726,0,0,0,,,,,,,,,
+39.7214,-72.426,0,0,0,,,,,,,,,
+39.7214,-72.126,0,0,0,,,,,,,,,
+40.0214,-74.826,40.019189,-74.827327,1,nearest_street,476,"Irick Rd","Mount Holly",NJ,"Burlington County",08060,US,"TIGER/Line® dataset from the US Census Bureau"
+40.0214,-74.526,40.0214,-74.526,0.2,nearest_place,,,Cookstown,NJ,"Burlington County",08511,US,"TIGER/Line® dataset from the US Census Bureau"
+40.0214,-74.226,40.019652,-74.22568,1,nearest_street,1898,"Lauren Ln","Toms River",NJ,"Ocean County",08755,US,"TIGER/Line® dataset from the US Census Bureau"
+40.0214,-73.926,0,0,0,,,,,,,,,
+40.0214,-73.626,0,0,0,,,,,,,,,
+40.0214,-73.326,0,0,0,,,,,,,,,
+40.0214,-73.026,0,0,0,,,,,,,,,
+40.0214,-72.726,0,0,0,,,,,,,,,
+40.0214,-72.426,0,0,0,,,,,,,,,
+40.0214,-72.126,0,0,0,,,,,,,,,
+40.3214,-74.826,40.321742,-74.826463,1,rooftop,29,"Hallett Dr",Pennington,NJ,"Mercer County",08534,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+40.3214,-74.526,40.319995,-74.5273,1,nearest_street,152,"Plainsboro Rd",Cranbury,NJ,"Middlesex County",08512,US,"TIGER/Line® dataset from the US Census Bureau"
+40.3214,-74.226,40.322044,-74.227079,1,rooftop,67,"Stevenson Dr",Marlboro,NJ,"Monmouth County",07746,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+40.3214,-73.926,40.3214,-73.926,0.18,nearest_place,,,"Monmouth Beach",NJ,"Monmouth County",07750,US,"TIGER/Line® dataset from the US Census Bureau"
+40.3214,-73.626,0,0,0,,,,,,,,,
+40.3214,-73.326,0,0,0,,,,,,,,,
+40.3214,-73.026,0,0,0,,,,,,,,,
+40.3214,-72.726,0,0,0,,,,,,,,,
+40.3214,-72.426,0,0,0,,,,,,,,,
+40.3214,-72.126,0,0,0,,,,,,,,,
+40.6214,-74.826,40.6214,-74.826,0.51,nearest_place,,,Lebanon,NJ,"Hunterdon County",08833,US,"TIGER/Line® dataset from the US Census Bureau"
+40.6214,-74.526,40.622227,-74.526341,1,rooftop,124,"Mount Horeb Rd",Warren,NJ,"Somerset County",07059,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+40.6214,-74.226,40.6214,-74.226,0.83,nearest_place,,,Tremley,NJ,"Union County",07036,US,"TIGER/Line® dataset from the US Census Bureau"
+40.6214,-73.926,40.621226,-73.92593,1,rooftop,5102,"Ave M",Brooklyn,NY,"Kings County",11234,US,"City of New York"
+40.6214,-73.626,40.621409,-73.62607,1,rooftop,3787,"Mahlon Brower Dr",Oceanside,NY,"Nassau County",11572,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+40.6214,-73.326,40.6214,-73.326,0.21,nearest_place,,,"Oak Beach",NY,"Suffolk County",11702,US,"TIGER/Line® dataset from the US Census Bureau"
+40.6214,-73.026,0,0,0,,,,,,,,,
+40.6214,-72.726,0,0,0,,,,,,,,,
+40.6214,-72.426,0,0,0,,,,,,,,,
+40.6214,-72.126,0,0,0,,,,,,,,,
+40.9214,-74.826,40.9214,-74.826,0.51,nearest_place,,,Allamuchy,NJ,"Warren County",07820,US,"TIGER/Line® dataset from the US Census Bureau"
+40.9214,-74.526,40.921447,-74.52647,1,rooftop,37,"W Lake Shore Dr",Rockaway,NJ,"Morris County",07866,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+40.9214,-74.226,40.921441,-74.225963,1,rooftop,34,"Cathy Ann Ct",Wayne,NJ,"Passaic County",07470,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+40.9214,-73.926,40.9214,-73.926,0.32,nearest_place,,,Yonkers,NY,,10711,US,"TIGER/Line® dataset from the US Census Bureau"
+40.9214,-73.626,40.9214,-73.626,0.22,nearest_place,,,"Locust Valley",NY,"Nassau County",11560,US,"TIGER/Line® dataset from the US Census Bureau"
+40.9214,-73.326,40.920394,-73.325531,1,rooftop,220,"Waterside Rd",Northport,NY,"Suffolk County",11768,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+40.9214,-73.026,40.921118,-73.025824,1,rooftop,459,"Canal Rd","Port Jefferson Station",NY,"Suffolk County",11776,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+40.9214,-72.726,40.922339,-72.726255,1,nearest_street,4698,"Middle Country Rd",Calverton,NY,"Suffolk County",11933,US,"TIGER/Line® dataset from the US Census Bureau"
+40.9214,-72.426,40.920599,-72.424898,1,rooftop,29,"Wolf Swamp Ln",Southampton,NY,"Suffolk County",11968,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+40.9214,-72.126,40.9214,-72.126,0.13,nearest_place,,,Pantigo,NY,"Suffolk County",11937,US,"TIGER/Line® dataset from the US Census Bureau"
+41.2214,-74.826,41.220186,-74.824756,1,nearest_street,9,"Maple Ln",Layton,NJ,"Sussex County",07851,US,"TIGER/Line® dataset from the US Census Bureau"
+41.2214,-74.526,41.221041,-74.525639,1,rooftop,4,"Settlers Rd",Vernon,NJ,"Sussex County",07462,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+41.2214,-74.226,41.219276,-74.224052,1,nearest_street,1241,"Co Rd 84","Tuxedo Park",NY,"Orange County",10987,US,"TIGER/Line® dataset from the US Census Bureau"
+41.2214,-73.926,41.2214,-73.926,0.65,nearest_place,,,Oscawana,NY,"Westchester County",10520,US,"TIGER/Line® dataset from the US Census Bureau"
+41.2214,-73.626,41.219242,-73.626355,1,nearest_street,939,"Old Post Rd",Bedford,NY,"Westchester County",10506,US,"TIGER/Line® dataset from the US Census Bureau"
+41.2214,-73.326,41.221236,-73.326025,1,nearest_street,10,"Old Redding Rd",Weston,CT,"Fairfield County",06883,US,"TIGER/Line® dataset from the US Census Bureau"
+41.2214,-73.026,41.221383,-73.026051,1,rooftop,15,"Nantrin Ter",Milford,CT,"New Haven County",06460,US,"Connecticut Geospatial Information Systems Council"
+41.2214,-72.726,41.2214,-72.726,0.24,nearest_place,,,"Sachem Head",CT,"New Haven County",06437,US,"TIGER/Line® dataset from the US Census Bureau"
+41.2214,-72.426,41.2214,-72.426,0.13,nearest_place,,,Knollwood,CT,"Middlesex County",06475,US,"TIGER/Line® dataset from the US Census Bureau"
+41.2214,-72.126,41.2214,-72.126,0.08,nearest_place,,,"Black Point",CT,,06357,US,"TIGER/Line® dataset from the US Census Bureau"
+40.0214,-74.526,40.0214,-74.526,0.2,nearest_place,,,Cookstown,NJ,"Burlington County",08511,US,"TIGER/Line® dataset from the US Census Bureau"
+40.0214,-74.226,40.019652,-74.22568,1,nearest_street,1898,"Lauren Ln","Toms River",NJ,"Ocean County",08755,US,"TIGER/Line® dataset from the US Census Bureau"
+40.0214,-73.926,0,0,0,,,,,,,,,
+40.0214,-73.626,0,0,0,,,,,,,,,
+40.0214,-73.326,0,0,0,,,,,,,,,
+40.0214,-73.026,0,0,0,,,,,,,,,
+40.0214,-72.726,0,0,0,,,,,,,,,
+40.0214,-72.426,0,0,0,,,,,,,,,
+40.0214,-72.126,0,0,0,,,,,,,,,
+40.0214,-71.826,0,0,0,,,,,,,,,
+40.3214,-74.526,40.319995,-74.5273,1,nearest_street,152,"Plainsboro Rd",Cranbury,NJ,"Middlesex County",08512,US,"TIGER/Line® dataset from the US Census Bureau"
+40.3214,-74.226,40.322044,-74.227079,1,rooftop,67,"Stevenson Dr",Marlboro,NJ,"Monmouth County",07746,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+40.3214,-73.926,40.3214,-73.926,0.18,nearest_place,,,"Monmouth Beach",NJ,"Monmouth County",07750,US,"TIGER/Line® dataset from the US Census Bureau"
+40.3214,-73.626,0,0,0,,,,,,,,,
+40.3214,-73.326,0,0,0,,,,,,,,,
+40.3214,-73.026,0,0,0,,,,,,,,,
+40.3214,-72.726,0,0,0,,,,,,,,,
+40.3214,-72.426,0,0,0,,,,,,,,,
+40.3214,-72.126,0,0,0,,,,,,,,,
+40.3214,-71.826,0,0,0,,,,,,,,,
+40.6214,-74.526,40.622227,-74.526341,1,rooftop,124,"Mount Horeb Rd",Warren,NJ,"Somerset County",07059,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+40.6214,-74.226,40.6214,-74.226,0.83,nearest_place,,,Tremley,NJ,"Union County",07036,US,"TIGER/Line® dataset from the US Census Bureau"
+40.6214,-73.926,40.621226,-73.92593,1,rooftop,5102,"Ave M",Brooklyn,NY,"Kings County",11234,US,"City of New York"
+40.6214,-73.626,40.621409,-73.62607,1,rooftop,3787,"Mahlon Brower Dr",Oceanside,NY,"Nassau County",11572,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+40.6214,-73.326,40.6214,-73.326,0.21,nearest_place,,,"Oak Beach",NY,"Suffolk County",11702,US,"TIGER/Line® dataset from the US Census Bureau"
+40.6214,-73.026,0,0,0,,,,,,,,,
+40.6214,-72.726,0,0,0,,,,,,,,,
+40.6214,-72.426,0,0,0,,,,,,,,,
+40.6214,-72.126,0,0,0,,,,,,,,,
+40.6214,-71.826,0,0,0,,,,,,,,,
+40.9214,-74.526,40.921447,-74.52647,1,rooftop,37,"W Lake Shore Dr",Rockaway,NJ,"Morris County",07866,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+40.9214,-74.226,40.921441,-74.225963,1,rooftop,34,"Cathy Ann Ct",Wayne,NJ,"Passaic County",07470,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+40.9214,-73.926,40.9214,-73.926,0.32,nearest_place,,,Yonkers,NY,,10711,US,"TIGER/Line® dataset from the US Census Bureau"
+40.9214,-73.626,40.9214,-73.626,0.22,nearest_place,,,"Locust Valley",NY,"Nassau County",11560,US,"TIGER/Line® dataset from the US Census Bureau"
+40.9214,-73.326,40.920394,-73.325531,1,rooftop,220,"Waterside Rd",Northport,NY,"Suffolk County",11768,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+40.9214,-73.026,40.921118,-73.025824,1,rooftop,459,"Canal Rd","Port Jefferson Station",NY,"Suffolk County",11776,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+40.9214,-72.726,40.922339,-72.726255,1,nearest_street,4698,"Middle Country Rd",Calverton,NY,"Suffolk County",11933,US,"TIGER/Line® dataset from the US Census Bureau"
+40.9214,-72.426,40.920599,-72.424898,1,rooftop,29,"Wolf Swamp Ln",Southampton,NY,"Suffolk County",11968,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+40.9214,-72.126,40.9214,-72.126,0.13,nearest_place,,,Pantigo,NY,"Suffolk County",11937,US,"TIGER/Line® dataset from the US Census Bureau"
+40.9214,-71.826,0,0,0,,,,,,,,,
+41.2214,-74.526,41.221041,-74.525639,1,rooftop,4,"Settlers Rd",Vernon,NJ,"Sussex County",07462,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+41.2214,-74.226,41.219276,-74.224052,1,nearest_street,1241,"Co Rd 84","Tuxedo Park",NY,"Orange County",10987,US,"TIGER/Line® dataset from the US Census Bureau"
+41.2214,-73.926,41.2214,-73.926,0.65,nearest_place,,,Oscawana,NY,"Westchester County",10520,US,"TIGER/Line® dataset from the US Census Bureau"
+41.2214,-73.626,41.219242,-73.626355,1,nearest_street,939,"Old Post Rd",Bedford,NY,"Westchester County",10506,US,"TIGER/Line® dataset from the US Census Bureau"
+41.2214,-73.326,41.221236,-73.326025,1,nearest_street,10,"Old Redding Rd",Weston,CT,"Fairfield County",06883,US,"TIGER/Line® dataset from the US Census Bureau"
+41.2214,-73.026,41.221383,-73.026051,1,rooftop,15,"Nantrin Ter",Milford,CT,"New Haven County",06460,US,"Connecticut Geospatial Information Systems Council"
+41.2214,-72.726,41.2214,-72.726,0.24,nearest_place,,,"Sachem Head",CT,"New Haven County",06437,US,"TIGER/Line® dataset from the US Census Bureau"
+41.2214,-72.426,41.2214,-72.426,0.13,nearest_place,,,Knollwood,CT,"Middlesex County",06475,US,"TIGER/Line® dataset from the US Census Bureau"
+41.2214,-72.126,41.2214,-72.126,0.08,nearest_place,,,"Black Point",CT,,06357,US,"TIGER/Line® dataset from the US Census Bureau"
+41.2214,-71.826,41.2214,-71.826,0.07,nearest_place,,,Misquamicut,RI,"Washington County",02891,US,"TIGER/Line® dataset from the US Census Bureau"
+41.5214,-74.526,41.521429,-74.525133,1,rooftop,977,"South Rd",Wurtsboro,NY,"Sullivan County",12790,US,Sullivan
+41.5214,-74.226,41.521505,-74.226323,1,rooftop,234,"Tompkins Rd",Montgomery,NY,"Orange County",12549,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+41.5214,-73.926,41.521285,-73.926075,1,rooftop,125,"Old Glenham Rd",Fishkill,NY,"Dutchess County",12524,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+41.5214,-73.626,41.5214,-73.626,0.18,nearest_place,,,Ludingtonville,NY,"Dutchess County",12531,US,"TIGER/Line® dataset from the US Census Bureau"
+41.5214,-73.326,41.522157,-73.327453,1,rooftop,15,"Farm Rd",Roxbury,CT,"Litchfield County",06783,US,"Connecticut Geospatial Information Systems Council"
+41.5214,-73.026,41.521503,-73.026978,1,rooftop,203,"Spring Lake Rd",Waterbury,CT,"New Haven County",06706,US,"Connecticut Geospatial Information Systems Council"
+41.5214,-72.726,41.523568,-72.72477,1,nearest_street,41,"Louis Rd",Middlefield,CT,"Middlesex County",06455,US,"TIGER/Line® dataset from the US Census Bureau"
+41.5214,-72.426,41.520845,-72.42476,1,rooftop,39,"Nichols Rd",Moodus,CT,"Middlesex County",06469,US,"Connecticut Geospatial Information Systems Council"
+41.5214,-72.126,41.521235,-72.125982,1,nearest_street,137,"Wawecus Hill Rd",Norwich,CT,"New London County",06360,US,"TIGER/Line® dataset from the US Census Bureau"
+41.5214,-71.826,41.519722,-71.826325,1,nearest_street,138,"Sand Hill Rd",Voluntown,CT,"New London County",06384,US,"TIGER/Line® dataset from the US Census Bureau"

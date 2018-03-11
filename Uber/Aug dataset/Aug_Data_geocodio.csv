@@ -1,0 +1,121 @@
+Latitude,Longitude,Latitude,Longitude,Accuracy Score,Accuracy Type,Number,Street,City,State,County,Zip,Country,Source
+39.6569,-74.7737,39.65799,-74.775909,1,nearest_street,367,Middle Rd,Hammonton,NJ,Atlantic County,8037,US,TIGER/Line® dataset from the US Census Bureau
+39.6569,-74.4737,39.6569,-74.4737,0.22,nearest_place,,,Leektown,NJ,Burlington County,8215,US,TIGER/Line® dataset from the US Census Bureau
+39.6569,-74.1737,39.65689,-74.173757,1,rooftop,253,N 1st St,Beach Haven,NJ,Ocean County,8008,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+39.6569,-73.8737,0,0,0,,,N 1st St,Beach Haven,NJ,Ocean County,8008,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+39.6569,-73.5737,0,0,0,,,N 1st St,Beach Haven,NJ,Ocean County,8008,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+39.6569,-73.2737,0,0,0,,,N 1st St,Beach Haven,NJ,Ocean County,8008,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+39.6569,-72.9737,0,0,0,,,N 1st St,Beach Haven,NJ,Ocean County,8008,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+39.6569,-72.6737,0,0,0,,,N 1st St,Beach Haven,NJ,Ocean County,8008,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+39.6569,-72.3737,0,0,0,,,N 1st St,Beach Haven,NJ,Ocean County,8008,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+39.6569,-72.0737,0,0,0,,,N 1st St,Beach Haven,NJ,Ocean County,8008,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+39.9569,-74.7737,39.957463,-74.773483,1,rooftop,5,Fox Run Rd,Lumberton,NJ,Burlington County,8048,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+39.9569,-74.4737,39.9569,-74.4737,0.26,nearest_place,,,Whitesbog,NJ,Ocean County,8015,US,TIGER/Line® dataset from the US Census Bureau
+39.9569,-74.1737,39.957029,-74.173687,1,rooftop,637,Batchelor St,Toms River,NJ,Ocean County,8753,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+39.9569,-73.8737,0,0,0,,,Batchelor St,Toms River,NJ,Ocean County,8753,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+39.9569,-73.5737,0,0,0,,,Batchelor St,Toms River,NJ,Ocean County,8753,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+39.9569,-73.2737,0,0,0,,,Batchelor St,Toms River,NJ,Ocean County,8753,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+39.9569,-72.9737,0,0,0,,,Batchelor St,Toms River,NJ,Ocean County,8753,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+39.9569,-72.6737,0,0,0,,,Batchelor St,Toms River,NJ,Ocean County,8753,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+39.9569,-72.3737,0,0,0,,,Batchelor St,Toms River,NJ,Ocean County,8753,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+39.9569,-72.0737,0,0,0,,,Batchelor St,Toms River,NJ,Ocean County,8753,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+40.2569,-74.7737,40.256674,-74.773381,1,rooftop,110,Woodland Ave,Trenton,NJ,Mercer County,8638,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+40.2569,-74.4737,40.256884,-74.473681,1,rooftop,6,Jessica Dr,Jamesburg,NJ,Middlesex County,8831,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+40.2569,-74.1737,40.2569,-74.1737,0.16,nearest_place,,,Jerseyville,NJ,Monmouth County,7728,US,TIGER/Line® dataset from the US Census Bureau
+40.2569,-73.8737,0,0,0,,,,Jerseyville,NJ,Monmouth County,7728,US,TIGER/Line® dataset from the US Census Bureau
+40.2569,-73.5737,0,0,0,,,,Jerseyville,NJ,Monmouth County,7728,US,TIGER/Line® dataset from the US Census Bureau
+40.2569,-73.2737,0,0,0,,,,Jerseyville,NJ,Monmouth County,7728,US,TIGER/Line® dataset from the US Census Bureau
+40.2569,-72.9737,0,0,0,,,,Jerseyville,NJ,Monmouth County,7728,US,TIGER/Line® dataset from the US Census Bureau
+40.2569,-72.6737,0,0,0,,,,Jerseyville,NJ,Monmouth County,7728,US,TIGER/Line® dataset from the US Census Bureau
+40.2569,-72.3737,0,0,0,,,,Jerseyville,NJ,Monmouth County,7728,US,TIGER/Line® dataset from the US Census Bureau
+40.2569,-72.0737,0,0,0,,,,Jerseyville,NJ,Monmouth County,7728,US,TIGER/Line® dataset from the US Census Bureau
+40.5569,-74.7737,40.556728,-74.77341,1,rooftop,161 A,Hillcrest Rd,Flemington,NJ,Hunterdon County,8822,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+40.5569,-74.4737,40.555612,-74.472664,1,rooftop,220,Old New Brunswick Rd,Piscataway,NJ,Middlesex County,8854,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+40.5569,-74.1737,40.556976,-74.173532,1,rooftop,130,Macon Ave,Staten Island,NY,Richmond County,10312,US,City of New York
+40.5569,-73.8737,40.5569,-73.8737,0.51,nearest_place,,,Fort Tilden,NY,Queens County,11695,US,TIGER/Line® dataset from the US Census Bureau
+40.5569,-73.5737,40.5569,-73.5737,0.21,nearest_place,,,Point Lookout,NY,Nassau County,11569,US,TIGER/Line® dataset from the US Census Bureau
+40.5569,-73.2737,40.5569,-73.2737,0.09,nearest_place,,,Oak Beach,NY,Suffolk County,11702,US,TIGER/Line® dataset from the US Census Bureau
+40.5569,-72.9737,0,0,0,,,,Oak Beach,NY,Suffolk County,11702,US,TIGER/Line® dataset from the US Census Bureau
+40.5569,-72.6737,0,0,0,,,,Oak Beach,NY,Suffolk County,11702,US,TIGER/Line® dataset from the US Census Bureau
+40.5569,-72.3737,0,0,0,,,,Oak Beach,NY,Suffolk County,11702,US,TIGER/Line® dataset from the US Census Bureau
+40.5569,-72.0737,0,0,0,,,,Oak Beach,NY,Suffolk County,11702,US,TIGER/Line® dataset from the US Census Bureau
+40.8569,-74.7737,40.856582,-74.773962,1,rooftop,412,Rt 46 W,Hackettstown,NJ,Morris County,7840,US,Morris
+40.8569,-74.4737,40.857824,-74.473056,1,rooftop,29,Brookstone Cir,Morris Plains,NJ,Morris County,7950,US,Morris
+40.8569,-74.1737,40.856791,-74.172844,1,rooftop,48,Joan Pl,Clifton,NJ,Passaic County,7012,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+40.8569,-73.8737,40.857377,-73.871083,1,nearest_street,607,Pelham Pkwy N,Bronx,NY,Bronx County,10467,US,TIGER/Line® dataset from the US Census Bureau
+40.8569,-73.5737,40.85642,-73.574404,1,rooftop,660,Chicken Valley Rd,Locust Valley,NY,Nassau County,11560,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+40.8569,-73.2737,40.856911,-73.273609,1,rooftop,7,Radburn Dr,Commack,NY,Suffolk County,11725,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+40.8569,-72.9737,40.857913,-72.973288,1,rooftop,42,Seymour Ln,Medford,NY,Suffolk County,11763,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+40.8569,-72.6737,40.8569,-72.6737,0.29,nearest_place,,,Riverside,NY,Suffolk County,11901,US,TIGER/Line® dataset from the US Census Bureau
+40.8569,-72.3737,40.8569,-72.3737,0.18,nearest_place,,,Flying Point,NY,Suffolk County,11976,US,TIGER/Line® dataset from the US Census Bureau
+40.8569,-72.0737,0,0,0,,,,Flying Point,NY,Suffolk County,11976,US,TIGER/Line® dataset from the US Census Bureau
+41.1569,-74.7737,41.156352,-74.776473,1,nearest_street,62,Longview Trl,Branchville,NJ,Sussex County,7826,US,TIGER/Line® dataset from the US Census Bureau
+41.1569,-74.4737,41.160023,-74.471263,1,nearest_street,281,Sagamore Rd,Highland Lakes,NJ,Sussex County,7422,US,TIGER/Line® dataset from the US Census Bureau
+41.1569,-74.1737,41.160952,-74.174999,1,nearest_street,78,Sunset Rd,Sloatsburg,NY,Rockland County,10974,US,TIGER/Line® dataset from the US Census Bureau
+41.1569,-73.8737,41.1569,-73.8737,0.66,nearest_place,,,Ossining,NY,Westchester County,10562,US,TIGER/Line® dataset from the US Census Bureau
+41.1569,-73.5737,41.157167,-73.573293,1,rooftop,741,Rock Rimmon Rd,Stamford,CT,Fairfield County,6903,US,Connecticut Geospatial Information Systems Council
+41.1569,-73.2737,41.156154,-73.273598,1,nearest_street,74,Cider Mill Ln,Fairfield,CT,Fairfield County,6824,US,TIGER/Line® dataset from the US Census Bureau
+41.1569,-72.9737,41.1569,-72.9737,0.12,nearest_place,,,Morningside,CT,New Haven County,6460,US,TIGER/Line® dataset from the US Census Bureau
+41.1569,-72.6737,41.1569,-72.6737,0.08,nearest_place,,,Sachem Head,CT,New Haven County,6437,US,TIGER/Line® dataset from the US Census Bureau
+41.1569,-72.3737,41.1569,-72.3737,0.2,nearest_place,,,East Marion,NY,Suffolk County,11939,US,TIGER/Line® dataset from the US Census Bureau
+41.1569,-72.0737,41.1569,-72.0737,0.06,nearest_place,,,Fishers Island,NY,Suffolk County,6390,US,TIGER/Line® dataset from the US Census Bureau
+39.9569,-74.4737,39.9569,-74.4737,0.26,nearest_place,,,Whitesbog,NJ,Ocean County,8015,US,TIGER/Line® dataset from the US Census Bureau
+39.9569,-74.1737,39.957029,-74.173687,1,rooftop,637,Batchelor St,Toms River,NJ,Ocean County,8753,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+39.9569,-73.8737,0,0,0,,,Batchelor St,Toms River,NJ,Ocean County,8753,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+39.9569,-73.5737,0,0,0,,,Batchelor St,Toms River,NJ,Ocean County,8753,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+39.9569,-73.2737,0,0,0,,,Batchelor St,Toms River,NJ,Ocean County,8753,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+39.9569,-72.9737,0,0,0,,,Batchelor St,Toms River,NJ,Ocean County,8753,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+39.9569,-72.6737,0,0,0,,,Batchelor St,Toms River,NJ,Ocean County,8753,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+39.9569,-72.3737,0,0,0,,,Batchelor St,Toms River,NJ,Ocean County,8753,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+39.9569,-72.0737,0,0,0,,,Batchelor St,Toms River,NJ,Ocean County,8753,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+39.9569,-71.7737,0,0,0,,,Batchelor St,Toms River,NJ,Ocean County,8753,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+40.2569,-74.4737,40.256884,-74.473681,1,rooftop,6,Jessica Dr,Jamesburg,NJ,Middlesex County,8831,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+40.2569,-74.1737,40.2569,-74.1737,0.16,nearest_place,,,Jerseyville,NJ,Monmouth County,7728,US,TIGER/Line® dataset from the US Census Bureau
+40.2569,-73.8737,0,0,0,,,,Jerseyville,NJ,Monmouth County,7728,US,TIGER/Line® dataset from the US Census Bureau
+40.2569,-73.5737,0,0,0,,,,Jerseyville,NJ,Monmouth County,7728,US,TIGER/Line® dataset from the US Census Bureau
+40.2569,-73.2737,0,0,0,,,,Jerseyville,NJ,Monmouth County,7728,US,TIGER/Line® dataset from the US Census Bureau
+40.2569,-72.9737,0,0,0,,,,Jerseyville,NJ,Monmouth County,7728,US,TIGER/Line® dataset from the US Census Bureau
+40.2569,-72.6737,0,0,0,,,,Jerseyville,NJ,Monmouth County,7728,US,TIGER/Line® dataset from the US Census Bureau
+40.2569,-72.3737,0,0,0,,,,Jerseyville,NJ,Monmouth County,7728,US,TIGER/Line® dataset from the US Census Bureau
+40.2569,-72.0737,0,0,0,,,,Jerseyville,NJ,Monmouth County,7728,US,TIGER/Line® dataset from the US Census Bureau
+40.2569,-71.7737,0,0,0,,,,Jerseyville,NJ,Monmouth County,7728,US,TIGER/Line® dataset from the US Census Bureau
+40.5569,-74.4737,40.555612,-74.472664,1,rooftop,220,Old New Brunswick Rd,Piscataway,NJ,Middlesex County,8854,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+40.5569,-74.1737,40.556976,-74.173532,1,rooftop,130,Macon Ave,Staten Island,NY,Richmond County,10312,US,City of New York
+40.5569,-73.8737,40.5569,-73.8737,0.51,nearest_place,,,Fort Tilden,NY,Queens County,11695,US,TIGER/Line® dataset from the US Census Bureau
+40.5569,-73.5737,40.5569,-73.5737,0.21,nearest_place,,,Point Lookout,NY,Nassau County,11569,US,TIGER/Line® dataset from the US Census Bureau
+40.5569,-73.2737,40.5569,-73.2737,0.09,nearest_place,,,Oak Beach,NY,Suffolk County,11702,US,TIGER/Line® dataset from the US Census Bureau
+40.5569,-72.9737,0,0,0,,,,Oak Beach,NY,Suffolk County,11702,US,TIGER/Line® dataset from the US Census Bureau
+40.5569,-72.6737,0,0,0,,,,Oak Beach,NY,Suffolk County,11702,US,TIGER/Line® dataset from the US Census Bureau
+40.5569,-72.3737,0,0,0,,,,Oak Beach,NY,Suffolk County,11702,US,TIGER/Line® dataset from the US Census Bureau
+40.5569,-72.0737,0,0,0,,,,Oak Beach,NY,Suffolk County,11702,US,TIGER/Line® dataset from the US Census Bureau
+40.5569,-71.7737,0,0,0,,,,Oak Beach,NY,Suffolk County,11702,US,TIGER/Line® dataset from the US Census Bureau
+40.8569,-74.4737,40.857824,-74.473056,1,rooftop,29,Brookstone Cir,Morris Plains,NJ,Morris County,7950,US,Morris
+40.8569,-74.1737,40.856791,-74.172844,1,rooftop,48,Joan Pl,Clifton,NJ,Passaic County,7012,US,"NJ Office of Information Technology (NJOIT), Office of Geographic Information Systems (OGIS)"
+40.8569,-73.8737,40.857377,-73.871083,1,nearest_street,607,Pelham Pkwy N,Bronx,NY,Bronx County,10467,US,TIGER/Line® dataset from the US Census Bureau
+40.8569,-73.5737,40.85642,-73.574404,1,rooftop,660,Chicken Valley Rd,Locust Valley,NY,Nassau County,11560,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+40.8569,-73.2737,40.856911,-73.273609,1,rooftop,7,Radburn Dr,Commack,NY,Suffolk County,11725,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+40.8569,-72.9737,40.857913,-72.973288,1,rooftop,42,Seymour Ln,Medford,NY,Suffolk County,11763,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+40.8569,-72.6737,40.8569,-72.6737,0.29,nearest_place,,,Riverside,NY,Suffolk County,11901,US,TIGER/Line® dataset from the US Census Bureau
+40.8569,-72.3737,40.8569,-72.3737,0.18,nearest_place,,,Flying Point,NY,Suffolk County,11976,US,TIGER/Line® dataset from the US Census Bureau
+40.8569,-72.0737,0,0,0,,,,Flying Point,NY,Suffolk County,11976,US,TIGER/Line® dataset from the US Census Bureau
+40.8569,-71.7737,0,0,0,,,,Flying Point,NY,Suffolk County,11976,US,TIGER/Line® dataset from the US Census Bureau
+41.1569,-74.4737,41.160023,-74.471263,1,nearest_street,281,Sagamore Rd,Highland Lakes,NJ,Sussex County,7422,US,TIGER/Line® dataset from the US Census Bureau
+41.1569,-74.1737,41.160952,-74.174999,1,nearest_street,78,Sunset Rd,Sloatsburg,NY,Rockland County,10974,US,TIGER/Line® dataset from the US Census Bureau
+41.1569,-73.8737,41.1569,-73.8737,0.66,nearest_place,,,Ossining,NY,Westchester County,10562,US,TIGER/Line® dataset from the US Census Bureau
+41.1569,-73.5737,41.157167,-73.573293,1,rooftop,741,Rock Rimmon Rd,Stamford,CT,Fairfield County,6903,US,Connecticut Geospatial Information Systems Council
+41.1569,-73.2737,41.156154,-73.273598,1,nearest_street,74,Cider Mill Ln,Fairfield,CT,Fairfield County,6824,US,TIGER/Line® dataset from the US Census Bureau
+41.1569,-72.9737,41.1569,-72.9737,0.12,nearest_place,,,Morningside,CT,New Haven County,6460,US,TIGER/Line® dataset from the US Census Bureau
+41.1569,-72.6737,41.1569,-72.6737,0.08,nearest_place,,,Sachem Head,CT,New Haven County,6437,US,TIGER/Line® dataset from the US Census Bureau
+41.1569,-72.3737,41.1569,-72.3737,0.2,nearest_place,,,East Marion,NY,Suffolk County,11939,US,TIGER/Line® dataset from the US Census Bureau
+41.1569,-72.0737,41.1569,-72.0737,0.06,nearest_place,,,Fishers Island,NY,Suffolk County,6390,US,TIGER/Line® dataset from the US Census Bureau
+41.1569,-71.7737,0,0,0,,,,Fishers Island,NY,Suffolk County,6390,US,TIGER/Line® dataset from the US Census Bureau
+41.4569,-74.4737,41.45921,-74.475798,1,nearest_street,697,Highland Lake Rd,Middletown,NY,Orange County,10940,US,TIGER/Line® dataset from the US Census Bureau
+41.4569,-74.1737,41.458276,-74.17554,1,rooftop,492,Beattie Rd,Rock Tavern,NY,Orange County,12575,US,Orange
+41.4569,-73.8737,41.4569,-73.8737,1.37,nearest_place,,,Cold Spring,NY,Putnam County,10516,US,TIGER/Line® dataset from the US Census Bureau
+41.4569,-73.5737,41.45592,-73.573536,1,rooftop,71,Ballyhack Rd,Brewster,NY,Putnam County,10509,US,"NYS GIS Program Office, State Geographic Information Officer (GIO)"
+41.4569,-73.2737,41.457608,-73.272221,1,nearest_street,300,S Flat Hill Rd,Southbury,CT,New Haven County,6488,US,TIGER/Line® dataset from the US Census Bureau
+41.4569,-72.9737,41.456471,-72.974043,1,rooftop,5,Oak Ridge Dr,Bethany,CT,New Haven County,6524,US,Connecticut Geospatial Information Systems Council
+41.4569,-72.6737,41.45603,-72.673118,1,nearest_street,146,Madison Rd,Durham,CT,Middlesex County,6422,US,TIGER/Line® dataset from the US Census Bureau
+41.4569,-72.3737,41.456572,-72.373425,1,rooftop,21,Woodmont Cir,East Haddam,CT,Middlesex County,6423,US,Connecticut Geospatial Information Systems Council
+41.4569,-72.0737,41.4569,-72.0737,1.32,nearest_place,,,Uncasville,CT,New London County,6382,US,TIGER/Line® dataset from the US Census Bureau
+41.4569,-71.7737,41.45465,-71.774231,1,nearest_street,52,Kenyon Ln,Ashaway,RI,Washington County,2804,US,TIGER/Line® dataset from the US Census Bureau

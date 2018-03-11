@@ -46,16 +46,7 @@ df_American <- df_American %>% mutate(Area = replace(Area,grepl("LI", Area) == T
 df_American <- df_American %>% mutate(Area = replace(Area,grepl("* B", Area) == TRUE, "Bronx"))
 df_American <- df_American %>% mutate(Area = replace(Area,grepl(" THEY GOING TO jfk  ESPERE EL PASAJERO 15 MINUTOS  NYC", Area) == TRUE, 
                                                      "JFK Airport"))
-df_American <- df_American %>% mutate(Area = replace(Area,grepl("*YONKERS*", Addr) == TRUE, "Yonkers"))
-df_American <- df_American %>% mutate(Area = replace(Area,grepl("*NEW ROCHELLE*", Addr) == TRUE, "New Rochelle"))
-df_American <- df_American %>% mutate(Area = replace(Area,grepl("*WHITE PLAINS*", Addr) == TRUE, "White Plains"))
-df_American <- df_American %>% mutate(Area = replace(Area,grepl("*RYE*", Addr) == TRUE, "Rye"))
-df_American <- df_American %>% mutate(Area = replace(Area,grepl("*VALHALLA*", Addr) == TRUE, "Valhalla"))
-df_American <- df_American %>% mutate(Area = replace(Area,grepl("*TARRYTOWN*", Addr) == TRUE, "Tarrytown"))
-df_American <- df_American %>% mutate(Area = replace(Area,grepl("*PELHAM MANOR*", Addr) == TRUE, "Pelham Manor"))
-df_American <- df_American %>% mutate(Area = replace(Area,grepl("*SCARSDALE*", Addr) == TRUE, "Scarsdale"))
-df_American <- df_American %>% mutate(Area = replace(Area,grepl("*OSSINING*", Addr) == TRUE, "Ossining"))
-df_American <- df_American %>% mutate(Area = replace(Area,grepl("*VERNON*", Addr) == TRUE, "Vernon"))
+
 df_American <- df_American %>% mutate(Area = replace(Area,grepl("*Bronx", Addr) == TRUE, "Bronx"))
 df_American <- df_American %>% mutate(Area = replace(Area,grepl("*NYC", Addr) == TRUE, "Manhattan"))
 df_American <- df_American %>% mutate(Area = replace(Area,grepl("*JFK*", Addr) == TRUE, "JFK Airport"))
@@ -66,13 +57,29 @@ df_American <- df_American %>% mutate(Area = replace(Area,grepl("*BRONX", Addr) 
 df_American <- df_American %>% mutate(Area = replace(Area,grepl("*LGA", Addr) == TRUE, "LaGuardia Airport"))
 df_American <- df_American %>% mutate(Area = replace(Area,grepl("*Mott Haven", Addr) == TRUE, "Bronx"))
 df_American <- df_American %>% mutate(Area = replace(Area,grepl("*Morrisania", Addr) == TRUE, "Bronx"))
+##################################################################################################################
+# Load Mapping csv file
+df_Area_Mapping <- read.csv("Carmel/Area_Mapping.csv", header = TRUE, stringsAsFactors = FALSE)
+df_Area_Mapping_NY <- read.csv("Carmel/County_in_NY.csv", header = TRUE, stringsAsFactors = FALSE)
+##################################################################################################################
 
-  
+#Apply mapping file to replace Areas
 
+
+startindex <- 1
+for (ii in seq(startindex, nrow(na.omit(df_Area_Mapping_NY)))){
+  df_American <- df_American %>% mutate(Area = replace(Area,grepl(df_Area_Mapping_NY$Town[ii], Pick_up_addr,ignore.case = TRUE) == TRUE, 
+                                                 df_Area_Mapping_NY$Area[ii]))
+}
+
+#######################################################################################################################  
+ unique(df_American$Area)
+ df_American %>% filter(is.na(Area)) 
+ 
 #Check for empty Areas in the dataframe
 df_American %>% filter(Area == " ")
 df_American %>% filter(Area == "")
-
+#######################################################################################################################  
 
 
 # Concatenate the date and time columns from the dataframe
@@ -105,12 +112,12 @@ ggplot(data = df_American) +
 
 ###############################################################################################################
 #Counts for each Area
-Area_counts <- df_American %>% group_by(Area) %>% tally()
+Area_counts_American <- df_American %>% group_by(Area) %>% tally()
 
-Area_counts %>% arrange(desc(n))
+Area_counts_American %>% arrange(desc(n))
 
 #Total count for all records
-nrow(df_American)
+nrow(df_American)/92
 
 # Count of weekdays from July - September
 df_American %>% mutate(day = weekdays(as.Date(DateTime,format = "%m/%d/%Y"), abbreviate = "F")) %>% 
@@ -123,4 +130,4 @@ df_American %>% mutate(per_day = as.Date(df_American$DateTime,format = "%m/%d/%Y
 
 
 
-table(cut(Hour_slots, breaks="hour"))
+

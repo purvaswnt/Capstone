@@ -68,7 +68,7 @@ for (ii in seq(startindex, nrow(na.omit(df_Area_Mapping_NY)))){
 df_Carmel %>% filter(is.na(Area))
 ###############################################################################################
 
-## Plotting bar plot to display demand of American cab by Area
+## Plotting bar plot to display demand of Carmel cab by Area
 ggplot(data = df_Carmel) +
   geom_bar(mapping = aes(x = Area)) + 
   theme(axis.text.x = element_text(face="bold", color="#993333", size=14, angle=45))
@@ -91,7 +91,7 @@ ggplot(data = df_Carmel) +
 #Counts for each Area
 Area_counts_Carmel <- df_Carmel %>% group_by(Area) %>% tally()
 
-Area_counts_Dial7 %>% arrange(desc(n))
+Area_counts_Carmel %>% arrange(desc(n))
 
 #Total count for all records
 nrow(df_Carmel)
